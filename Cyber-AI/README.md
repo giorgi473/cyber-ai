@@ -1,20 +1,4 @@
-<div align="center">
-  <img src="banner.png" alt="Apex Code - AI Cybersecurity Platform" width="100%">
-</div>
 
-<div align="center">
-  <img src="ytbanner.png" alt="Apex Code YouTube Banner" width="100%">
-</div>
-
-# Apex Code - AI-Powered Cybersecurity Platform
-
-<div align="center">
-
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@ApexCode46-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ApexCode46)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Khan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-khan-tanoli-845099205/)
-[![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?style=for-the-badge&logo=github)](https://github.com/yourgithubusername)
-
-</div>
 
 Welcome to the future of cybersecurity with AI. Our platform leverages cutting-edge artificial intelligence to provide robust security solutions for modern challenges.
 
